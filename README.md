@@ -1,4 +1,3 @@
-# Gerador_de_CPF
 Gerador de CPF Utilizando a linguagem python 
 
 Para colocar os estudos e aprendizados da linguagem python, foi requerido a criação de um programa que dere números do CPF válido,
